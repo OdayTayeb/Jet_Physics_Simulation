@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\asus\documents\visual studio 2015\projects\project14\project1\source.cpp(51): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\asus\documents\visual studio 2015\projects\project14\project1\source.cpp(933): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  texture.cpp
+  camera.cpp
+  Model_3DS.cpp
+  3DTexture.cpp
+  Project1.vcxproj -> C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Project14\Debug\Project1.exe
