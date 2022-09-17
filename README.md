@@ -2,6 +2,8 @@
 
 This Simulation is about mid-size business jet airplane that called Learjet 70/75.
 
+the simulation is done using opengl and c++ programming language.
+
 # The Forces
 
 1- Gravity Force : its direction is always to the center of earth.
