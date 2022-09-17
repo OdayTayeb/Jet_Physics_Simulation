@@ -8,49 +8,27 @@ This Simulation is about mid-size business jet airplane that called Learjet 70/7
 
 W = m*g where: 
 
-m is Jet Mass
-
-g is gravity Acceleration
+m is Jet Mass, g is gravity Acceleration
 
 2- Lift Force : its direction is always perpendicular on Jet plane.
 
 L=1/2 * Cl * rho * v * v * A where: 
 
-Cl is Lift coefficient
-
-rho is air density 
-
-v is Jet velocity 
-
-A is Wing Area
+Cl is Lift coefficient, rho is air density, v is Jet velocity, A is Wing Area
 
 3- Drag Force : its direction is always opposite of Velocity.
 
 D=1/2 * C * rho * v * v * A where:
 
-C is Drag coefficient
-
-rho is air density 
-
-v is Jet velocity 
-
-A is Wing Area
+C is Drag coefficient, rho is air density, v is Jet velocity, A is Wing Area
 
 4- Thrust Force : its direction always with Jet body.
 
 FT=𝑚̇ 0*(Ve-V0) where:
 
-𝑚̇ 0 is mass flow rate 
+𝑚̇ 0 is mass flow rate and its formula 𝑚̇ 0 =rho*V0*A 
 
-𝑚̇ 0 =rho*V0*A 
-
-rho is air density
-
-V0 is velocity of incoming air
-
-A is Fan area 
-
-Ve is velocity of outflow air
+rho is air density, V0 is velocity of incoming air, A is Fan area, Ve is velocity of outflow air
 
 # Banking turn
 
